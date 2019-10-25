@@ -16,8 +16,9 @@ namespace ClassLibrary1
         }
         public DevOps(int x,int y)
         {
-            int a = x;
+            int a = 7;
             int b= y;
+	    x=a;
        }
     }
 }
