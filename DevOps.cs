@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     public class DevOps
     {
-        int a = 7;
+        int a = 8;
         int b = 5;
         public DevOps()
         {
@@ -18,6 +18,6 @@ namespace ClassLibrary1
         {
             int a = x;
             int b= y;
-        }
+       }
     }
 }
